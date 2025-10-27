@@ -30,3 +30,4 @@ Easily plan and track your daily workouts right in your browser — no backend o
 3x8 squats
 
 15 min yoga
+link-->https://anirbanchattaraj.github.io/Fitness-to-do/
