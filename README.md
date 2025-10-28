@@ -33,3 +33,4 @@ Easily plan and track your daily workouts right in your browser — no backend o
 
 
 link-->https://anirbanchattaraj.github.io/Fitness-to-do/
+Author-->Anirban Chattaraj
